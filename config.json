@@ -50,16 +50,16 @@
   "site": {
     "url": "https://rd67.github.io",
     "title": "Rohit Dalal · Senior Software Engineer | Backend, platforms & reliability",
-    "description": "Senior engineer (10+ years) shipping APIs, distributed systems, and cloud platforms for **distributed, global teams**. Based in India; **remote-first** with flexible overlap across time zones. Go, Kubernetes, Node/TypeScript. Open to senior IC and platform roles.",
-    "keywords": "Rohit Dalal, software engineer, backend, platform engineering, remote, distributed systems, SRE, Golang, Kubernetes, DevOps, reliability, full-stack",
+    "description": "Senior engineer (10+ years) shipping APIs, distributed systems, and cloud platforms for **distributed, global teams**. Based in India; **open to Remote, Hybrid, and OnSite** roles with flexible timezone overlap. Go, Kubernetes, Node/TypeScript. Open to senior IC and platform roles.",
+    "keywords": "Rohit Dalal, software engineer, backend, platform engineering, Remote, Hybrid, OnSite, distributed systems, SRE, Golang, Kubernetes, DevOps, reliability, full-stack",
     "ogTitle": "Rohit Dalal · Senior Software Engineer",
-    "ogDescription": "Backends, platforms, and reliable systems at scale. Go, Kubernetes, APIs. Open to senior IC roles.",
+    "ogDescription": "Backends, platforms, and reliable systems at scale. Go, Kubernetes, APIs. Open to senior IC roles — Remote, Hybrid, or OnSite.",
     "ogImage": "assets/images/og.png",
     "ogImageWidth": "1200",
     "ogImageHeight": "630",
     "ogImageAlt": "Rohit Dalal — software engineer, platforms and reliability",
     "twitterTitle": "Rohit Dalal · Senior Software Engineer",
-    "twitterDescription": "Backends, Kubernetes, APIs, and production operations. Open to opportunities."
+    "twitterDescription": "Backends, Kubernetes, APIs, and production operations. Open to Remote, Hybrid, and OnSite opportunities."
   },
   "resumeUrl": "https://docs.google.com/document/d/15lDoHK7RmvAiBKZPdgUu30Uzs6KzXRZRgKOv5z0FDcY/edit?usp=sharing",
   "person": {
@@ -100,13 +100,13 @@
     "title": "I design and ship software that stays calm when traffic doesn’t.",
     "lead": [
       "I’m strongest where **product delivery** meets **platform reality**—APIs and services, **Kubernetes** and CI/CD, observability, and pragmatic tradeoffs under load. Comfortable with **async collaboration** and **distributed teams** across time zones.",
-      "I mentor, review, and own incidents when it counts. If you need a **senior IC** who can bridge product and infrastructure—whether you’re **hub-based, hybrid, or fully distributed**—we should talk."
+      "I mentor, review, and own incidents when it counts. If you need a **senior IC** who can bridge product and infrastructure—**Remote, Hybrid, OnSite, or fully distributed**—we should talk."
     ],
     "emailSubject": "Hello Rohit",
     "meta": [
-      { "term": "Location", "value": "India (remote)" },
-      { "term": "Work style", "value": "Remote-first · timezone-flexible" },
-      { "term": "Open to", "value": "Senior IC & platform roles" }
+      { "term": "Location", "value": "India" },
+      { "term": "Work style", "value": "Remote · Hybrid · OnSite · timezone-flexible" },
+      { "term": "Open to", "value": "Senior IC & platform roles (all work modes)" }
     ]
   },
   "about": {
@@ -252,7 +252,7 @@
   },
   "contact": {
     "title": "Let’s talk",
-    "text": "Hiring for platform, backend, or full-stack—with space to own reliability, cost, and delivery? **Remote, hybrid, and distributed** setups welcome. Send a note with the role, working hours or overlap expectations, and what success looks like in the first 90 days.",
+    "text": "Hiring for platform, backend, or full-stack—with space to own reliability, cost, and delivery? **Remote, Hybrid, OnSite, and distributed** setups welcome. Send a note with the role, working hours or overlap expectations, and what success looks like in the first 90 days.",
     "resumeLabel": "Résumé (Google Drive)"
   }
 }

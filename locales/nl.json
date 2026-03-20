@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "Rohit Dalal · Senior software engineer | Backend, platformen & betrouwbaarheid",
-    "description": "Senior engineer (10+ jaar) met API’s, gedistribueerde systemen en cloudplatforms voor **wereldwijde, verdeelde teams**. Gevestigd in India; **remote-first** met flexibele afstemming over tijdzones. Go, Kubernetes, Node/TypeScript. Open voor senior IC- en platformrollen.",
-    "keywords": "Rohit Dalal, software engineer, backend, platform engineering, remote, gedistribueerde systemen, SRE, Golang, Kubernetes, DevOps, betrouwbaarheid, full-stack",
+    "description": "Senior engineer (10+ jaar) met API’s, gedistribueerde systemen en cloudplatforms voor **wereldwijde, verdeelde teams**. Gevestigd in India; **open voor Remote, Hybrid en OnSite** met flexibele afstemming over tijdzones. Go, Kubernetes, Node/TypeScript. Open voor senior IC- en platformrollen.",
+    "keywords": "Rohit Dalal, software engineer, backend, platform engineering, Remote, Hybrid, OnSite, gedistribueerde systemen, SRE, Golang, Kubernetes, DevOps, betrouwbaarheid, full-stack",
     "ogTitle": "Rohit Dalal · Senior software engineer",
-    "ogDescription": "Backends, platformen en betrouwbare systemen op schaal. Go, Kubernetes, API’s. Open voor senior IC-rollen.",
+    "ogDescription": "Backends, platformen en betrouwbare systemen op schaal. Go, Kubernetes, API’s. Open voor senior IC-rollen — Remote, Hybrid of OnSite.",
     "ogImageAlt": "Rohit Dalal — software engineer, platformen en betrouwbaarheid",
     "twitterTitle": "Rohit Dalal · Senior software engineer",
-    "twitterDescription": "Backends, Kubernetes, API’s en productie-operations. Open voor kansen."
+    "twitterDescription": "Backends, Kubernetes, API’s en productie-operations. Open voor Remote, Hybrid en OnSite."
   },
   "person": {
     "photo": {
@@ -69,13 +69,13 @@
     "title": "Ik ontwerp en lever software die rustig blijft onder load.",
     "lead": [
       "Ik ben het sterkst waar **productdelivery** **platformrealiteit** ontmoet—API’s en services, **Kubernetes** en CI/CD, observability en pragmatische trade-offs onder load. Gewend aan **asynchrone samenwerking** en **verdeelde teams** over tijdzones heen.",
-      "Ik mentor, review en neem incidentownership wanneer het er toe doet. Zoekt u een **senior IC** die product en infrastructuur verbindt—**kantoor, hybride of volledig distributed**—laten we praten."
+      "Ik mentor, review en neem incidentownership wanneer het er toe doet. Zoekt u een **senior IC** die product en infrastructuur verbindt—**Remote, Hybrid, OnSite of volledig distributed**—laten we praten."
     ],
     "emailSubject": "Hallo Rohit",
     "meta": [
-      { "term": "Locatie", "value": "India (remote)" },
-      { "term": "Werkwijze", "value": "Remote-first · flexibele tijdzones" },
-      { "term": "Open voor", "value": "Senior IC & platformrollen" }
+      { "term": "Locatie", "value": "India" },
+      { "term": "Werkwijze", "value": "Remote · Hybrid · OnSite · flexibele tijdzones" },
+      { "term": "Open voor", "value": "Senior IC & platform (alle vormen)" }
     ]
   },
   "about": {
@@ -198,7 +198,7 @@
   },
   "contact": {
     "title": "Laten we praten",
-    "text": "Zoekt u platform-, backend- of full-stack-capaciteit met ruimte voor betrouwbaarheid, kosten en delivery? **Remote, hybride en verdeelde** teams welkom. Stuur de rol, verwachtingen rond werktijden of overlap, en wat succes in 90 dagen betekent.",
+    "text": "Zoekt u platform-, backend- of full-stack-capaciteit met ruimte voor betrouwbaarheid, kosten en delivery? **Remote, Hybrid, OnSite en verdeelde** teams welkom. Stuur de rol, verwachtingen rond werktijden of overlap, en wat succes in 90 dagen betekent.",
     "resumeLabel": "CV (Google Drive)"
   }
 }

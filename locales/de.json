@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "Rohit Dalal · Senior Software Engineer | Backend, Plattformen & Zuverlässigkeit",
-    "description": "Senior Engineer (10+ Jahre) mit APIs, verteilten Systemen und Cloud-Plattformen für **verteilte, globale Teams**. Standort Indien; **remote-first** mit flexibler Abstimmung über Zeitzonen hinweg. Go, Kubernetes, Node/TypeScript. Offen für Senior-IC- und Plattformrollen.",
-    "keywords": "Rohit Dalal, Software Engineer, Backend, Plattformengineering, Remote, verteilte Systeme, SRE, Golang, Kubernetes, DevOps, Zuverlässigkeit, Full-Stack",
+    "description": "Senior Engineer (10+ Jahre) mit APIs, verteilten Systemen und Cloud-Plattformen für **verteilte, globale Teams**. Standort Indien; **offen für Remote, Hybrid und OnSite** mit flexibler Abstimmung über Zeitzonen hinweg. Go, Kubernetes, Node/TypeScript. Offen für Senior-IC- und Plattformrollen.",
+    "keywords": "Rohit Dalal, Software Engineer, Backend, Plattformengineering, Remote, Hybrid, OnSite, verteilte Systeme, SRE, Golang, Kubernetes, DevOps, Zuverlässigkeit, Full-Stack",
     "ogTitle": "Rohit Dalal · Senior Software Engineer",
-    "ogDescription": "Backends, Plattformen und zuverlässige Systeme im großen Maßstab. Go, Kubernetes, APIs. Offen für Senior-IC-Rollen.",
+    "ogDescription": "Backends, Plattformen und zuverlässige Systeme im großen Maßstab. Go, Kubernetes, APIs. Offen für Senior-IC-Rollen — Remote, Hybrid oder OnSite.",
     "ogImageAlt": "Rohit Dalal — Software Engineer, Plattformen und Zuverlässigkeit",
     "twitterTitle": "Rohit Dalal · Senior Software Engineer",
-    "twitterDescription": "Backends, Kubernetes, APIs und Produktionsbetrieb. Offen für neue Möglichkeiten."
+    "twitterDescription": "Backends, Kubernetes, APIs und Produktionsbetrieb. Offen für Remote, Hybrid und OnSite."
   },
   "person": {
     "photo": {
@@ -69,13 +69,13 @@
     "title": "Ich entwickle Software, die unter Last ruhig bleibt.",
     "lead": [
       "Am stärksten bin ich, wo **Produktlieferung** auf **Plattformrealität** trifft—APIs und Services, **Kubernetes** und CI/CD, Observability und pragmatische Kompromisse unter Last. Gewohnt an **asynchrone Zusammenarbeit** und **verteilte Teams** über Zeitzonen hinweg.",
-      "Ich mentoriere, reviewe und übernehme Verantwortung bei Incidents, wenn es darauf ankommt. Wenn Sie einen **Senior IC** suchen, der Produkt und Infrastruktur verbindet—ob **Zentralstandort, hybrid oder vollständig verteilt**—reden wir."
+      "Ich mentoriere, reviewe und übernehme Verantwortung bei Incidents, wenn es darauf ankommt. Wenn Sie einen **Senior IC** suchen, der Produkt und Infrastruktur verbindet—**Remote, Hybrid, OnSite oder vollständig verteilt**—reden wir."
     ],
     "emailSubject": "Hallo Rohit",
     "meta": [
-      { "term": "Standort", "value": "Indien (remote)" },
-      { "term": "Arbeitsmodell", "value": "Remote-first · Zeitzonen flexibel" },
-      { "term": "Offen für", "value": "Senior IC & Plattformrollen" }
+      { "term": "Standort", "value": "Indien" },
+      { "term": "Arbeitsmodell", "value": "Remote · Hybrid · OnSite · Zeitzonen flexibel" },
+      { "term": "Offen für", "value": "Senior IC & Plattform (alle Modelle)" }
     ]
   },
   "about": {
@@ -198,7 +198,7 @@
   },
   "contact": {
     "title": "Lassen Sie uns sprechen",
-    "text": "Sie suchen Plattform-, Backend- oder Full-Stack-Kapazität mit Raum für Zuverlässigkeit, Kosten und Lieferung? **Remote, hybrid und verteilte** Modelle willkommen. Schreiben Sie mit Rolle, Arbeitszeiten bzw. erwarteter Überlappung und Ihrem „Erfolg in 90 Tagen“.",
+    "text": "Sie suchen Plattform-, Backend- oder Full-Stack-Kapazität mit Raum für Zuverlässigkeit, Kosten und Lieferung? **Remote, Hybrid, OnSite und verteilte** Modelle willkommen. Schreiben Sie mit Rolle, Arbeitszeiten bzw. erwarteter Überlappung und Ihrem „Erfolg in 90 Tagen“.",
     "resumeLabel": "Lebenslauf (Google Drive)"
   }
 }

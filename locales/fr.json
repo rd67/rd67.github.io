@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "Rohit Dalal · Ingénieur logiciel senior | Backend, plateformes & fiabilité",
-    "description": "Ingénieur senior (10+ ans) sur des APIs, systèmes distribués et plateformes cloud pour des **équipes globales et distribuées**. Basé en Inde ; **remote-first** avec recouvrement horaire flexible. Go, Kubernetes, Node/TypeScript. Ouvert aux rôles **senior IC** et plateforme.",
-    "keywords": "Rohit Dalal, ingénieur logiciel, backend, plateforme, télétravail, systèmes distribués, SRE, Golang, Kubernetes, DevOps, fiabilité, full-stack",
+    "description": "Ingénieur senior (10+ ans) sur des APIs, systèmes distribués et plateformes cloud pour des **équipes globales et distribuées**. Basé en Inde ; **ouvert au Remote, Hybrid et OnSite** avec recouvrement horaire flexible. Go, Kubernetes, Node/TypeScript. Ouvert aux rôles **senior IC** et plateforme.",
+    "keywords": "Rohit Dalal, ingénieur logiciel, backend, plateforme, Remote, Hybrid, OnSite, systèmes distribués, SRE, Golang, Kubernetes, DevOps, fiabilité, full-stack",
     "ogTitle": "Rohit Dalal · Ingénieur logiciel senior",
-    "ogDescription": "Backends, plateformes et systèmes fiables à grande échelle. Go, Kubernetes, APIs. Ouvert aux rôles senior IC.",
+    "ogDescription": "Backends, plateformes et systèmes fiables à grande échelle. Go, Kubernetes, APIs. Ouvert aux rôles senior IC — Remote, Hybrid ou OnSite.",
     "ogImageAlt": "Rohit Dalal — ingénieur logiciel, plateformes et fiabilité",
     "twitterTitle": "Rohit Dalal · Ingénieur logiciel senior",
-    "twitterDescription": "Backends, Kubernetes, APIs et exploitation. Ouvert aux opportunités."
+    "twitterDescription": "Backends, Kubernetes, APIs et exploitation. Ouvert au Remote, Hybrid et OnSite."
   },
   "person": {
     "photo": {
@@ -69,13 +69,13 @@
     "title": "Je conçois et livre des logiciels qui restent stables sous charge.",
     "lead": [
       "Je suis le plus à l’aise là où la **livraison produit** rencontre la **réalité plateforme**—APIs et services, **Kubernetes** et CI/CD, observabilité et compromis pragmatiques sous charge. À l’aise avec la **collaboration asynchrone** et les **équipes distribuées** sur plusieurs fuseaux.",
-      "Je encadre, revue le code et assume les incidents quand c’est critique. Si vous cherchez un **senior IC** qui relie produit et infra—**siège, hybride ou entièrement distribué**—discutons."
+      "Je encadre, revue le code et assume les incidents quand c’est critique. Si vous cherchez un **senior IC** qui relie produit et infra—**Remote, Hybrid, OnSite ou entièrement distribué**—discutons."
     ],
     "emailSubject": "Bonjour Rohit",
     "meta": [
-      { "term": "Localisation", "value": "Inde (remote)" },
-      { "term": "Mode de travail", "value": "Remote-first · fuseaux flexibles" },
-      { "term": "Ouvert à", "value": "Senior IC & plateforme" }
+      { "term": "Localisation", "value": "Inde" },
+      { "term": "Mode de travail", "value": "Remote · Hybrid · OnSite · fuseaux flexibles" },
+      { "term": "Ouvert à", "value": "Senior IC & plateforme (tous modes)" }
     ]
   },
   "about": {
@@ -198,7 +198,7 @@
   },
   "contact": {
     "title": "Discutons",
-    "text": "Vous recrutez sur la plateforme, le backend ou le full-stack—avec de la marge sur fiabilité, coût et delivery ? **Télétravail, hybride et équipes distribuées** bienvenus. Écrivez avec le rôle, les attentes sur les horaires ou le recouvrement, et votre vision du succès à 90 jours.",
+    "text": "Vous recrutez sur la plateforme, le backend ou le full-stack—avec de la marge sur fiabilité, coût et delivery ? **Remote, Hybrid, OnSite et équipes distribuées** bienvenus. Écrivez avec le rôle, les attentes sur les horaires ou le recouvrement, et votre vision du succès à 90 jours.",
     "resumeLabel": "CV (Google Drive)"
   }
 }
