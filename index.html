@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("theme");
+          var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
+          else document.documentElement.setAttribute("data-theme", prefersDark ? "dark" : "light");
+        } catch (e) {}
+      })();
+    </script>
+
+    <title>Rohit Dalal · Senior Software Engineer | Backend, platforms & reliability</title>
+    <meta
+      name="description"
+      content="Senior engineer (10+ years) shipping APIs, distributed systems, and cloud platforms for distributed, global teams. Based in India; remote-first with flexible time zone overlap. Go, Kubernetes, Node/TypeScript. Open to senior IC and platform roles."
+    />
+    <meta
+      name="keywords"
+      content="Rohit Dalal, software engineer, backend, platform engineering, remote, distributed systems, SRE, Golang, Kubernetes, DevOps, reliability, full-stack"
+    />
+    <meta name="author" content="Rohit Dalal" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#0f172a" id="meta-theme-color" />
+
+    <link rel="canonical" href="https://rd67.github.io/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="Rohit Dalal" />
+    <meta property="og:title" content="Rohit Dalal · Senior Software Engineer" />
+    <meta
+      property="og:description"
+      content="Backends, platforms, and reliable systems at scale. Go, Kubernetes, APIs. Open to senior IC roles."
+    />
+    <meta property="og:url" content="https://rd67.github.io/" />
+    <meta property="og:image" content="https://rd67.github.io/assets/images/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Rohit Dalal — software engineer, platforms and reliability" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Rohit Dalal · Senior Software Engineer" />
+    <meta
+      name="twitter:description"
+      content="Backends, Kubernetes, APIs, and production operations. Open to opportunities."
+    />
+    <meta name="twitter:image" content="https://rd67.github.io/assets/images/og.png" />
+    <meta name="twitter:image:alt" content="Rohit Dalal portfolio preview" />
+
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png" />
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700;1,14..32,400&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="assets/css/styles.css" />
+
+    <script type="application/ld+json" id="json-ld-person">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Rohit Dalal",
+        "url": "https://rd67.github.io/",
+        "image": "https://rd67.github.io/assets/images/profile.png",
+        "email": "rohitdalal67@gmail.com",
+        "jobTitle": "Senior Software Engineer I",
+        "worksFor": { "@type": "Organization", "name": "DigitalOcean" },
+        "sameAs": ["https://linkedin.com/in/rd67", "https://github.com/rd67"],
+        "knowsAbout": [
+          "Software engineering",
+          "Go",
+          "Kubernetes",
+          "Reliability engineering",
+          "Platform engineering",
+          "Full-stack development",
+          "Cloud infrastructure"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="header">
+      <div class="header__inner layout">
+        <a class="brand" href="#top" aria-label="Rohit Dalal — home">
+          <img class="brand__img" src="assets/images/favicon-32x32.png" width="32" height="32" alt="" decoding="async" />
+          <span class="brand__text" id="brand-name">Rohit Dalal</span>
+        </a>
+
+        <nav class="nav" id="nav" aria-label="Primary navigation">
+          <a href="#about" data-nav="about">About</a>
+          <a href="#experience" data-nav="experience">Experience</a>
+          <a href="#projects" data-nav="projects">Projects</a>
+          <a href="#skills" data-nav="skills">Skills</a>
+          <a href="#education" data-nav="education">Education</a>
+          <a href="#contact" class="nav__cta" data-nav="contact">Contact</a>
+        </nav>
+
+        <div class="header__actions">
+          <label class="visually-hidden" for="lang-select">Language</label>
+          <select id="lang-select" class="lang-select" name="lang" aria-label="Language"></select>
+          <a class="btn btn--ghost btn--sm resume-link" href="#" data-resume-link target="_blank" rel="noopener noreferrer"
+            >Résumé</a
+          >
+          <button
+            type="button"
+            class="theme-toggle"
+            id="theme-toggle"
+            aria-label="Toggle dark mode"
+            title="Theme"
+          >
+            <span class="theme-toggle__icon theme-toggle__icon--sun" aria-hidden="true">☀</span>
+            <span class="theme-toggle__icon theme-toggle__icon--moon" aria-hidden="true">☾</span>
+          </button>
+          <button
+            type="button"
+            class="menu-toggle"
+            id="menu-toggle"
+            aria-expanded="false"
+            aria-controls="nav"
+            aria-label="Open menu"
+          >
+            <span></span><span></span><span></span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="main">
+      <p id="config-error" class="config-error layout" hidden>
+        Could not load <strong>config.json</strong>. Open this site over HTTP (for example
+        <code>python3 -m http.server</code> in the portfolio folder)—browsers block <code>file://</code> fetches.
+      </p>
+      <div id="app-root"></div>
+    </main>
+
+    <footer class="footer">
+      <div class="layout footer__inner">
+        <p class="footer__copy">
+          © <span id="year"></span> <span id="footer-name">Rohit Dalal</span>.
+          <span id="footer-rights">All rights reserved</span>.
+        </p>
+      </div>
+    </footer>
+
+    <button
+      type="button"
+      class="scroll-top"
+      id="scroll-top"
+      aria-label="Scroll to top"
+      title="Scroll to top"
+      hidden
+    >
+      <span class="scroll-top__icon" aria-hidden="true">↑</span>
+    </button>
+
+    <script src="assets/javascripts/app.js" defer></script>
+  </body>
+</html>

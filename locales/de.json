@@ -1,0 +1,204 @@
+{
+  "site": {
+    "title": "Rohit Dalal · Senior Software Engineer | Backend, Plattformen & Zuverlässigkeit",
+    "description": "Senior Engineer (10+ Jahre) mit APIs, verteilten Systemen und Cloud-Plattformen für **verteilte, globale Teams**. Standort Indien; **remote-first** mit flexibler Abstimmung über Zeitzonen hinweg. Go, Kubernetes, Node/TypeScript. Offen für Senior-IC- und Plattformrollen.",
+    "keywords": "Rohit Dalal, Software Engineer, Backend, Plattformengineering, Remote, verteilte Systeme, SRE, Golang, Kubernetes, DevOps, Zuverlässigkeit, Full-Stack",
+    "ogTitle": "Rohit Dalal · Senior Software Engineer",
+    "ogDescription": "Backends, Plattformen und zuverlässige Systeme im großen Maßstab. Go, Kubernetes, APIs. Offen für Senior-IC-Rollen.",
+    "ogImageAlt": "Rohit Dalal — Software Engineer, Plattformen und Zuverlässigkeit",
+    "twitterTitle": "Rohit Dalal · Senior Software Engineer",
+    "twitterDescription": "Backends, Kubernetes, APIs und Produktionsbetrieb. Offen für neue Möglichkeiten."
+  },
+  "person": {
+    "photo": {
+      "alt": "Professionelles Porträtfoto von Rohit Dalal"
+    },
+    "jsonLd": {
+      "knowsAbout": [
+        "Softwareentwicklung",
+        "Go",
+        "Kubernetes",
+        "Zuverlässigkeit",
+        "Plattformengineering",
+        "Full-Stack-Entwicklung",
+        "Cloud-Infrastruktur"
+      ]
+    }
+  },
+  "ui": {
+    "skipToContent": "Zum Inhalt springen",
+    "langSelectAria": "Sprache",
+    "resume": "Lebenslauf",
+    "themeToggleDark": "Zum Dunkelmodus wechseln",
+    "themeToggleLight": "Zum Hellmodus wechseln",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen",
+    "scrollTop": "Nach oben scrollen",
+    "scrollTopTitle": "Nach oben",
+    "navAria": "Hauptnavigation",
+    "nav": {
+      "about": "Über mich",
+      "experience": "Erfahrung",
+      "projects": "Projekte",
+      "skills": "Skills",
+      "education": "Ausbildung",
+      "contact": "Kontakt"
+    },
+    "sections": {
+      "about": "Über mich",
+      "experience": "Erfahrung",
+      "skills": "Skills",
+      "education": "Ausbildung",
+      "interests": "Interessen"
+    },
+    "hero": {
+      "emailMe": "E-Mail schreiben",
+      "viewResume": "Lebenslauf ansehen",
+      "socialAria": "Social Profile",
+      "summaryAria": "Kurzüberblick"
+    },
+    "jobCurrent": "Aktuell",
+    "tagsAria": "Technologien",
+    "rightsReserved": "Alle Rechte vorbehalten",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "configError": "<strong>config.json</strong> konnte nicht geladen werden. Bitte die Seite über HTTP bereitstellen (z. B. <code>python3 -m http.server</code> im Portfolio-Ordner)—Browser blockieren <code>file://</code>-Aufrufe."
+  },
+  "hero": {
+    "eyebrow": "10+ Jahre · Plattformen, Backends & zuverlässige Systeme",
+    "title": "Ich entwickle Software, die unter Last ruhig bleibt.",
+    "lead": [
+      "Am stärksten bin ich, wo **Produktlieferung** auf **Plattformrealität** trifft—APIs und Services, **Kubernetes** und CI/CD, Observability und pragmatische Kompromisse unter Last. Gewohnt an **asynchrone Zusammenarbeit** und **verteilte Teams** über Zeitzonen hinweg.",
+      "Ich mentoriere, reviewe und übernehme Verantwortung bei Incidents, wenn es darauf ankommt. Wenn Sie einen **Senior IC** suchen, der Produkt und Infrastruktur verbindet—ob **Zentralstandort, hybrid oder vollständig verteilt**—reden wir."
+    ],
+    "emailSubject": "Hallo Rohit",
+    "meta": [
+      { "term": "Standort", "value": "Indien (remote)" },
+      { "term": "Arbeitsmodell", "value": "Remote-first · Zeitzonen flexibel" },
+      { "term": "Offen für", "value": "Senior IC & Plattformrollen" }
+    ]
+  },
+  "about": {
+    "paragraphs": [
+      "Mir ist wichtig, dass Systeme in Produktion vorhersagbar sind: klar abgegrenzte Kontexte, beobachtbare Deployments und Entscheidungen, die sich gegenüber Finance und Engineering erklären lassen. Zuletzt vor allem **SSR/ISR** für Hochlastflächen, **SEO** und Release-Pipelines sowie interne Tools, die Operations-Teams wirklich nutzen. Ich bin an **asynchroner Zusammenarbeit** mit Stakeholdern in **mehreren Regionen** gewöhnt.",
+      "Ich bin direkt im Code Review, geduldig in der Mentorship und bewusst bei **KI-gestützten Workflows**, wo sie den Durchsatz verbessern—nicht, wo sie Ownership ersetzen. Wenn Ihre Roadmap jemanden braucht, der **Zuverlässigkeit, Kosten und Lieferung** im großen Maßstab verantwortet, passen wir zusammen."
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "role": "Senior Software Engineer I",
+        "org": "DigitalOcean",
+        "dates": "Apr. 2024 — heute",
+        "current": true,
+        "bullets": [
+          "Leitung der Migration zentraler Oberflächen zu **SSR/ISR**—ca. **30 % schnellere Deployments** und bessere Performance bei sehr hohem Traffic bei **SLO 99,99 %**.",
+          "**Hacktoberfest**-Admin und Stakeholder-Tools—operative Transparenz im **Programmmaßstab** (User, PRs, Reporting).",
+          "**SEO** und Sitemap-Abdeckung verbessert; Crawlbarkeit und Sichtbarkeit für Marketing-Oberflächen.",
+          "Verantwortungsvolle **KI-gestützte Entwicklung** (z. B. Copilot, Cursor), damit das Team schneller wird ohne Review-Disziplin zu verlieren."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer (Golang)",
+        "org": "W.IT Global India",
+        "dates": "Sept. 2022 — Apr. 2024",
+        "bullets": [
+          "**Backup/Restore-Automatisierung** auf **Azure** und **Kubernetes**—ca. **80 % niedrigere** monatliche Disk-Kosten mit besserer Recovery-Position.",
+          "**gRPC**- und **REST**-Microservices in **Go** und Node; K8s-Layout und Release-Praxis für flüssigere Lieferung geschärft."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "org": "Dev Story",
+        "dates": "März 2021 — Juli 2022",
+        "bullets": [
+          "Junioren mentoriert, Reviews vorangetrieben und **Produktions-Incidents** End-to-End übernommen.",
+          "**AWS** und CI/CD mit Ziel **~99,7 % Uptime**; zuverlässige Near-Real-Time-Integration externer Services."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "EdKent Media",
+        "dates": "März 2020 — März 2021",
+        "bullets": [
+          "Greenfield-Produkt in PostGrid-Größenordnung: Backend, Frontend und DevOps von Null bis Produktion.",
+          "**Unit Economics** für hochvolumige Postkarten- und Briefproduktion optimiert; **AWS Lambda** und Serverless-APIs."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "Worklabs",
+        "dates": "Juni 2019 — Feb. 2020",
+        "bullets": [
+          "Admin-Dashboards und APIs auf dem **MERN**-Stack.",
+          "**AWS**-Betrieb mit Fokus auf Sicherheit und Skalierung."
+        ]
+      },
+      {
+        "role": "Web Developer",
+        "org": "Code Brew Labs",
+        "dates": "Sept. 2015 — Feb. 2019",
+        "bullets": [
+          "Chat-Polling durch **WebSockets** ersetzt; ORM-Patterns in **Node**-Codebases eingeführt.",
+          "**REST**-APIs über Node, Laravel, MySQL, MongoDB für mehrere Kund:innen; **Deployments**, DB-Admin und Security-Hardening."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Ausgewählte Arbeiten",
+    "lede": "Ergebnisorientierte Einblicke—gern vertiefen wir Architektur und Trade-offs im Gespräch.",
+    "items": [
+      {
+        "name": "DigitalOcean Marketing-Site",
+        "desc": "**SSR/ISR**-Migration, CI/CD und Infra-Härtung für **sehr hohen Traffic**—Deploy-Zeit ~**30 %** niedriger, **SLO 99,98 %** gehalten.",
+        "tags": ["Next.js", "Performance", "CI/CD"]
+      },
+      {
+        "name": "Hacktoberfest Operations",
+        "desc": "Internes Produkt und Admin-UX für ein globales Programm—Reporting, PR-Volumen und Teilnehmerbetrieb im großen Maßstab.",
+        "tags": ["Product", "Admin UX", "Scale"]
+      },
+      {
+        "name": "PostGrid (EdKent)",
+        "desc": "Millionen Postkarten und Briefe mit engen **Stückkosten**—MERN, GitHub Actions, **AWS**, Serverless.",
+        "tags": ["MERN", "Serverless", "Cost"]
+      },
+      {
+        "name": "Safecity",
+        "desc": "Red Dot Foundation—Bürgermeldungen mit Polizei und Behörden; Durchsatz für Vorfälle und Events.",
+        "tags": ["Laravel", "MySQL", "Redis", "AWS"]
+      },
+      {
+        "name": "Datalab (Unilever)",
+        "desc": "~**80 %** geringere Disk-Kosten durch Backup- und Recovery-Design—React, Node, TypeScript, **Kubernetes**, **Azure**.",
+        "tags": ["Azure", "K8s", "FinOps"]
+      }
+    ]
+  },
+  "skills": {
+    "groups": [
+      { "label": "Sprachen & Runtimes", "tags": ["Go", "Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Shell"] },
+      { "label": "Frontend", "tags": ["React", "Next.js", "HTML", "CSS"] },
+      { "label": "Cloud & Ops", "tags": ["Docker", "Kubernetes", "Terraform", "CI/CD", "Observability", "AWS", "DigitalOcean", "Azure", "Serverless"] },
+      { "label": "Daten & APIs", "tags": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Cosmos DB", "Elasticsearch", "REST", "gRPC", "WebSockets"] },
+      { "label": "Frameworks & Qualität", "tags": ["Express", "Fastify", "Restify", "NestJS", "Gin", "Laravel", "Jest", "A/B testing", "Integration tests"] }
+    ]
+  },
+  "education": {
+    "items": [
+      { "degree": "M.Tech, Computer Science & Engineering", "school": "UIET, MDU", "year": "Laufend" },
+      { "degree": "B.Tech, Computer Science & Engineering", "school": "SRM University", "year": "2011 — 2015" }
+    ],
+    "interests": [
+      "Backend- & Plattformengineering",
+      "JavaScript-/Node-Ökosystem",
+      "KI-gestützte Engineering-Workflows"
+    ]
+  },
+  "contact": {
+    "title": "Lassen Sie uns sprechen",
+    "text": "Sie suchen Plattform-, Backend- oder Full-Stack-Kapazität mit Raum für Zuverlässigkeit, Kosten und Lieferung? **Remote, hybrid und verteilte** Modelle willkommen. Schreiben Sie mit Rolle, Arbeitszeiten bzw. erwarteter Überlappung und Ihrem „Erfolg in 90 Tagen“.",
+    "resumeLabel": "Lebenslauf (Google Drive)"
+  }
+}

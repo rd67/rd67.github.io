@@ -1,0 +1,204 @@
+{
+  "site": {
+    "title": "Rohit Dalal · Senior software engineer | Backend, platformen & betrouwbaarheid",
+    "description": "Senior engineer (10+ jaar) met API’s, gedistribueerde systemen en cloudplatforms voor **wereldwijde, verdeelde teams**. Gevestigd in India; **remote-first** met flexibele afstemming over tijdzones. Go, Kubernetes, Node/TypeScript. Open voor senior IC- en platformrollen.",
+    "keywords": "Rohit Dalal, software engineer, backend, platform engineering, remote, gedistribueerde systemen, SRE, Golang, Kubernetes, DevOps, betrouwbaarheid, full-stack",
+    "ogTitle": "Rohit Dalal · Senior software engineer",
+    "ogDescription": "Backends, platformen en betrouwbare systemen op schaal. Go, Kubernetes, API’s. Open voor senior IC-rollen.",
+    "ogImageAlt": "Rohit Dalal — software engineer, platformen en betrouwbaarheid",
+    "twitterTitle": "Rohit Dalal · Senior software engineer",
+    "twitterDescription": "Backends, Kubernetes, API’s en productie-operations. Open voor kansen."
+  },
+  "person": {
+    "photo": {
+      "alt": "Professionele portretfoto van Rohit Dalal"
+    },
+    "jsonLd": {
+      "knowsAbout": [
+        "Software engineering",
+        "Go",
+        "Kubernetes",
+        "Betrouwbaarheid",
+        "Platform engineering",
+        "Full-stack ontwikkeling",
+        "Cloud infrastructuur"
+      ]
+    }
+  },
+  "ui": {
+    "skipToContent": "Naar inhoud",
+    "langSelectAria": "Taal",
+    "resume": "CV",
+    "themeToggleDark": "Schakel naar donkere modus",
+    "themeToggleLight": "Schakel naar lichte modus",
+    "menuOpen": "Menu openen",
+    "menuClose": "Menu sluiten",
+    "scrollTop": "Scroll naar boven",
+    "scrollTopTitle": "Naar boven",
+    "navAria": "Hoofdnavigatie",
+    "nav": {
+      "about": "Over mij",
+      "experience": "Ervaring",
+      "projects": "Projecten",
+      "skills": "Vaardigheden",
+      "education": "Opleiding",
+      "contact": "Contact"
+    },
+    "sections": {
+      "about": "Over mij",
+      "experience": "Ervaring",
+      "skills": "Vaardigheden",
+      "education": "Opleiding",
+      "interests": "Interesses"
+    },
+    "hero": {
+      "emailMe": "E-mail mij",
+      "viewResume": "Bekijk CV",
+      "socialAria": "Social profielen",
+      "summaryAria": "Samenvatting"
+    },
+    "jobCurrent": "Huidig",
+    "tagsAria": "Technologieën",
+    "rightsReserved": "Alle rechten voorbehouden",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "configError": "<strong>config.json</strong> kon niet worden geladen. Serveer de site via HTTP (bijv. <code>python3 -m http.server</code> in de map portfolio)—browsers blokkeren <code>file://</code>-verzoeken."
+  },
+  "hero": {
+    "eyebrow": "10+ jaar · Platformen, backends & betrouwbare systemen",
+    "title": "Ik ontwerp en lever software die rustig blijft onder load.",
+    "lead": [
+      "Ik ben het sterkst waar **productdelivery** **platformrealiteit** ontmoet—API’s en services, **Kubernetes** en CI/CD, observability en pragmatische trade-offs onder load. Gewend aan **asynchrone samenwerking** en **verdeelde teams** over tijdzones heen.",
+      "Ik mentor, review en neem incidentownership wanneer het er toe doet. Zoekt u een **senior IC** die product en infrastructuur verbindt—**kantoor, hybride of volledig distributed**—laten we praten."
+    ],
+    "emailSubject": "Hallo Rohit",
+    "meta": [
+      { "term": "Locatie", "value": "India (remote)" },
+      { "term": "Werkwijze", "value": "Remote-first · flexibele tijdzones" },
+      { "term": "Open voor", "value": "Senior IC & platformrollen" }
+    ]
+  },
+  "about": {
+    "paragraphs": [
+      "Ik geef om systemen die voorspelbaar zijn in productie: duidelijke contexten, observeerbare deployments en beslissingen die u legt aan finance én engineering. Recent **SSR/ISR** voor hoog-verkeer, **SEO** en release-pipelines, interne tools die operators echt gebruiken. Gewend aan **async** samenwerking met stakeholders in **meerdere regio’s**.",
+      "Ik ben direct in code review, geduldig in mentorship, en doelbewust met **AI-ondersteunde workflows** waar ze throughput verbeteren—niet waar ze ownership vervangen. Als uw roadmap iemand nodig heeft die **betrouwbaarheid, kosten en delivery** op schaal draagt, klikken we."
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "role": "Senior Software Engineer I",
+        "org": "DigitalOcean",
+        "dates": "apr. 2024 — heden",
+        "current": true,
+        "bullets": [
+          "Leidde migratie van belangrijke oppervlakken naar **SSR/ISR**—ongeveer **30% snellere deployments** en betere performance bij zeer hoog verkeer met **SLO 99,99%**.",
+          "**Hacktoberfest**-admin en stakeholder-tooling—operationele zichtbaarheid op **programmaschaal**.",
+          "**SEO** en sitemap-dekking; crawlbaarheid en zichtbaarheid voor marketing.",
+          "Verantwoord **AI-ondersteunde development** (Copilot, Cursor) zodat het team sneller wordt zonder review-discipline te verliezen."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer (Golang)",
+        "org": "W.IT Global India",
+        "dates": "sept. 2022 — apr. 2024",
+        "bullets": [
+          "**Backup/restore-automatisering** op **Azure** en **Kubernetes**—ongeveer **80% lagere** maandelijkse diskkosten met betere recovery.",
+          "**gRPC**- en **REST**-microservices in **Go** en Node; K8s-layout en releases aangescherpt."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "org": "Dev Story",
+        "dates": "mrt. 2021 — jul. 2022",
+        "bullets": [
+          "Junior mentoren, reviews aangestuurd en **productie-incidents** end-to-end beheerd.",
+          "**AWS** en CI/CD met doel **~99,7% uptime**; betrouwbare near-real-time integraties."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "EdKent Media",
+        "dates": "mrt. 2020 — mrt. 2021",
+        "bullets": [
+          "Greenfield-product PostGrid-schaal: backend, frontend en DevOps tot productie.",
+          "**Unit economics** voor hoogvolume postkaarten en brieven; **AWS Lambda** en serverless API’s."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "Worklabs",
+        "dates": "jun. 2019 — feb. 2020",
+        "bullets": [
+          "Admin-dashboards en API’s op de **MERN**-stack.",
+          "**AWS**-operaties met nadruk op security en schaal."
+        ]
+      },
+      {
+        "role": "Web Developer",
+        "org": "Code Brew Labs",
+        "dates": "sept. 2015 — feb. 2019",
+        "bullets": [
+          "Chat-polling vervangen door **WebSockets**; ORM-patronen in **Node**-codebases.",
+          "**REST**-API’s Node, Laravel, MySQL, MongoDB voor meerdere klanten; **deployments**, DB-admin en hardening."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Uitgelicht werk",
+    "lede": "Resultaatgerichte momentopnames—we gaan graag dieper in op architectuur en trade-offs.",
+    "items": [
+      {
+        "name": "DigitalOcean marketingwebsite",
+        "desc": "**SSR/ISR**-migratie, CI/CD en infra-hardening voor **zeer hoog verkeer**—deploy-tijd ~**30%** lager, **SLO 99,98%** gehandhaafd.",
+        "tags": ["Next.js", "Performance", "CI/CD"]
+      },
+      {
+        "name": "Hacktoberfest operations",
+        "desc": "Intern product en admin-UX voor een globaal programma—rapportage, PR-volume, deelnemersoperations op schaal.",
+        "tags": ["Product", "Admin UX", "Scale"]
+      },
+      {
+        "name": "PostGrid (EdKent)",
+        "desc": "Miljoenen kaarten en brieven met strakke **stukkosten**—MERN, GitHub Actions, **AWS**, serverless.",
+        "tags": ["MERN", "Serverless", "Cost"]
+      },
+      {
+        "name": "Safecity",
+        "desc": "Red Dot Foundation—burgermeldingen met politie en overheid; doorvoer voor incidenten en events.",
+        "tags": ["Laravel", "MySQL", "Redis", "AWS"]
+      },
+      {
+        "name": "Datalab (Unilever)",
+        "desc": "~**80%** lagere diskkosten via backup- en recovery-ontwerp—React, Node, TypeScript, **Kubernetes**, **Azure**.",
+        "tags": ["Azure", "K8s", "FinOps"]
+      }
+    ]
+  },
+  "skills": {
+    "groups": [
+      { "label": "Talen & runtimes", "tags": ["Go", "Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Shell"] },
+      { "label": "Frontend", "tags": ["React", "Next.js", "HTML", "CSS"] },
+      { "label": "Cloud & ops", "tags": ["Docker", "Kubernetes", "Terraform", "CI/CD", "Observability", "AWS", "DigitalOcean", "Azure", "Serverless"] },
+      { "label": "Data & API’s", "tags": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Cosmos DB", "Elasticsearch", "REST", "gRPC", "WebSockets"] },
+      { "label": "Frameworks & kwaliteit", "tags": ["Express", "Fastify", "Restify", "NestJS", "Gin", "Laravel", "Jest", "A/B testing", "Integration tests"] }
+    ]
+  },
+  "education": {
+    "items": [
+      { "degree": "M.Tech, Computer Science & Engineering", "school": "UIET, MDU", "year": "Lopend" },
+      { "degree": "B.Tech, Computer Science & Engineering", "school": "SRM University", "year": "2011 — 2015" }
+    ],
+    "interests": [
+      "Backend- & platformengineering",
+      "JavaScript-/Node-ecosysteem",
+      "AI-ondersteunde engineering-workflows"
+    ]
+  },
+  "contact": {
+    "title": "Laten we praten",
+    "text": "Zoekt u platform-, backend- of full-stack-capaciteit met ruimte voor betrouwbaarheid, kosten en delivery? **Remote, hybride en verdeelde** teams welkom. Stuur de rol, verwachtingen rond werktijden of overlap, en wat succes in 90 dagen betekent.",
+    "resumeLabel": "CV (Google Drive)"
+  }
+}

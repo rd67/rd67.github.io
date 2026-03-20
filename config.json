@@ -1,0 +1,258 @@
+{
+  "i18n": {
+    "defaultLocale": "en",
+    "supported": [
+      { "id": "en", "label": "English", "htmlLang": "en", "ogLocale": "en_GB" },
+      { "id": "de", "label": "Deutsch", "htmlLang": "de", "ogLocale": "de_DE" },
+      { "id": "fr", "label": "Français", "htmlLang": "fr", "ogLocale": "fr_FR" },
+      { "id": "nl", "label": "Nederlands", "htmlLang": "nl", "ogLocale": "nl_NL" }
+    ]
+  },
+  "ui": {
+    "skipToContent": "Skip to content",
+    "langSelectAria": "Language",
+    "resume": "Résumé",
+    "themeToggleDark": "Switch to dark mode",
+    "themeToggleLight": "Switch to light mode",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "scrollTop": "Scroll to top",
+    "scrollTopTitle": "Scroll to top",
+    "navAria": "Primary navigation",
+    "nav": {
+      "about": "About",
+      "experience": "Experience",
+      "projects": "Projects",
+      "skills": "Skills",
+      "education": "Education",
+      "contact": "Contact"
+    },
+    "sections": {
+      "about": "About",
+      "experience": "Experience",
+      "skills": "Skills",
+      "education": "Education",
+      "interests": "Interests"
+    },
+    "hero": {
+      "emailMe": "Email me",
+      "viewResume": "View résumé",
+      "socialAria": "Social profiles",
+      "summaryAria": "Summary"
+    },
+    "jobCurrent": "Current",
+    "tagsAria": "Technologies",
+    "rightsReserved": "All rights reserved",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "configError": "Could not load <strong>config.json</strong>. Open this site over HTTP (for example <code>python3 -m http.server</code> in the portfolio folder)—browsers block loading <code>file://</code> fetches."
+  },
+  "site": {
+    "url": "https://rd67.github.io",
+    "title": "Rohit Dalal · Senior Software Engineer | Backend, platforms & reliability",
+    "description": "Senior engineer (10+ years) shipping APIs, distributed systems, and cloud platforms for **distributed, global teams**. Based in India; **remote-first** with flexible overlap across time zones. Go, Kubernetes, Node/TypeScript. Open to senior IC and platform roles.",
+    "keywords": "Rohit Dalal, software engineer, backend, platform engineering, remote, distributed systems, SRE, Golang, Kubernetes, DevOps, reliability, full-stack",
+    "ogTitle": "Rohit Dalal · Senior Software Engineer",
+    "ogDescription": "Backends, platforms, and reliable systems at scale. Go, Kubernetes, APIs. Open to senior IC roles.",
+    "ogImage": "assets/images/og.png",
+    "ogImageWidth": "1200",
+    "ogImageHeight": "630",
+    "ogImageAlt": "Rohit Dalal — software engineer, platforms and reliability",
+    "twitterTitle": "Rohit Dalal · Senior Software Engineer",
+    "twitterDescription": "Backends, Kubernetes, APIs, and production operations. Open to opportunities."
+  },
+  "resumeUrl": "https://docs.google.com/document/d/15lDoHK7RmvAiBKZPdgUu30Uzs6KzXRZRgKOv5z0FDcY/edit?usp=sharing",
+  "person": {
+    "name": "Rohit Dalal",
+    "email": "rohitdalal67@gmail.com",
+    "photo": {
+      "src": "assets/images/profile.png",
+      "width": 480,
+      "height": 480,
+      "alt": "Professional headshot of Rohit Dalal"
+    },
+    "social": [
+      { "label": "GitHub", "href": "https://github.com/rd67", "external": true },
+      { "label": "LinkedIn", "href": "https://linkedin.com/in/rd67", "external": true },
+      {
+        "label": "Email",
+        "href": "mailto:rohitdalal67@gmail.com",
+        "display": "rohitdalal67@gmail.com",
+        "external": false
+      }
+    ],
+    "jsonLd": {
+      "jobTitle": "Senior Software Engineer I",
+      "worksFor": "DigitalOcean",
+      "knowsAbout": [
+        "Software engineering",
+        "Go",
+        "Kubernetes",
+        "Reliability engineering",
+        "Platform engineering",
+        "Full-stack development",
+        "Cloud infrastructure"
+      ]
+    }
+  },
+  "hero": {
+    "eyebrow": "10+ years · Platforms, backends & reliable systems",
+    "title": "I design and ship software that stays calm when traffic doesn’t.",
+    "lead": [
+      "I’m strongest where **product delivery** meets **platform reality**—APIs and services, **Kubernetes** and CI/CD, observability, and pragmatic tradeoffs under load. Comfortable with **async collaboration** and **distributed teams** across time zones.",
+      "I mentor, review, and own incidents when it counts. If you need a **senior IC** who can bridge product and infrastructure—whether you’re **hub-based, hybrid, or fully distributed**—we should talk."
+    ],
+    "emailSubject": "Hello Rohit",
+    "meta": [
+      { "term": "Location", "value": "India (remote)" },
+      { "term": "Work style", "value": "Remote-first · timezone-flexible" },
+      { "term": "Open to", "value": "Senior IC & platform roles" }
+    ]
+  },
+  "about": {
+    "paragraphs": [
+      "I care about systems that behave predictably in production: bounded contexts, observable deployments, and decisions you can explain to finance as well as engineering. Lately that’s meant **SSR/ISR** for high-traffic surfaces, **SEO** and release pipelines, and internal tooling operators actually want to use. I’m used to **async collaboration** with stakeholders in **multiple regions**.",
+      "I’m direct in code review, patient in mentorship, and intentional about **AI-assisted workflows** where they improve throughput—not where they replace ownership. If your roadmap needs someone who can own **reliability, cost, and delivery** at scale, we’ll get along."
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "role": "Senior Software Engineer I",
+        "org": "DigitalOcean",
+        "dates": "Apr 2024 — Present",
+        "current": true,
+        "bullets": [
+          "Led migration of key surfaces to **SSR/ISR**—**~30% faster deploys** and stronger performance for very high-traffic pages while maintaining **SLO 99.99%**.",
+          "Delivered **Hacktoberfest** admin and stakeholder tooling—operational visibility at **program scale** (users, PRs, reporting).",
+          "Advanced **SEO** and sitemap coverage; improved crawlability and visibility for marketing surfaces.",
+          "Championed **responsible AI-assisted development** (e.g. Copilot, Cursor) so the team gains speed without losing review discipline."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer (Golang)",
+        "org": "W.IT Global India",
+        "dates": "Sept 2022 — Apr 2024",
+        "bullets": [
+          "Built **backup/restore automation** on **Azure** and **Kubernetes**—roughly **80% lower** monthly disk spend with faster recovery posture.",
+          "**gRPC** and **REST** microservices in **Go** and Node; tightened K8s layout and release practices for smoother delivery."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "org": "Dev Story",
+        "dates": "Mar 2021 — Jul 2022",
+        "bullets": [
+          "Mentored juniors, drove reviews, and owned **production incidents** end-to-end.",
+          "**AWS** and CI/CD with a **~99.7% uptime** target; integrated third-party services with dependable near-real-time sync."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "EdKent Media",
+        "dates": "Mar 2020 — Mar 2021",
+        "bullets": [
+          "Greenfield **PostGrid**-class product: backend, frontend, and DevOps from zero to production.",
+          "Optimized **unit economics** for high-volume postcard and letter generation; **AWS Lambda** and serverless API patterns."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "Worklabs",
+        "dates": "Jun 2019 — Feb 2020",
+        "bullets": [
+          "Admin dashboards and APIs on the **MERN** stack.",
+          "**AWS** operations with emphasis on security and scale."
+        ]
+      },
+      {
+        "role": "Web Developer",
+        "org": "Code Brew Labs",
+        "dates": "Sept 2015 — Feb 2019",
+        "bullets": [
+          "Replaced chat polling with **WebSockets**; introduced ORM patterns across **Node** codebases.",
+          "**REST** APIs across Node, Laravel, MySQL, MongoDB for multiple clients; **deployments**, DB admin, and security hardening."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Selected work",
+    "lede": "Outcome-focused snapshots—happy to go deeper on architecture and tradeoffs.",
+    "items": [
+      {
+        "name": "DigitalOcean marketing site",
+        "desc": "**SSR/ISR** migration, CI/CD, and infra hardening for **very high traffic**—deployment time down ~**30%**, **SLO 99.98%** maintained.",
+        "tags": ["Next.js", "Performance", "CI/CD"]
+      },
+      {
+        "name": "Hacktoberfest operations",
+        "desc": "Internal product and admin UX for a global program—stakeholder reporting, PR volume, and participant operations at scale.",
+        "tags": ["Product", "Admin UX", "Scale"]
+      },
+      {
+        "name": "PostGrid (EdKent)",
+        "desc": "Millions of postcards and letters with tight **unit costs**—MERN, GitHub Actions, **AWS**, serverless patterns.",
+        "tags": ["MERN", "Serverless", "Cost"]
+      },
+      {
+        "name": "Safecity",
+        "desc": "Red Dot Foundation—civic reporting with police and government; throughput for incidents and events.",
+        "tags": ["Laravel", "MySQL", "Redis", "AWS"]
+      },
+      {
+        "name": "Datalab (Unilever)",
+        "desc": "~**80%** disk cost reduction via backup and recovery design—React, Node, TypeScript, **Kubernetes**, **Azure**.",
+        "tags": ["Azure", "K8s", "FinOps"]
+      }
+    ]
+  },
+  "skills": {
+    "groups": [
+      {
+        "label": "Languages & runtimes",
+        "tags": ["Go", "Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Shell"]
+      },
+      {
+        "label": "Frontend",
+        "tags": ["React", "Next.js", "HTML", "CSS"]
+      },
+      {
+        "label": "Cloud & ops",
+        "tags": ["Docker", "Kubernetes", "Terraform", "CI/CD", "Observability", "AWS", "DigitalOcean", "Azure", "Serverless"]
+      },
+      {
+        "label": "Data & APIs",
+        "tags": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Cosmos DB", "Elasticsearch", "REST", "gRPC", "WebSockets"]
+      },
+      {
+        "label": "Frameworks & quality",
+        "tags": ["Express", "Fastify", "Restify", "NestJS", "Gin", "Laravel", "Jest", "A/B testing", "Integration tests"]
+      }
+    ]
+  },
+  "education": {
+    "items": [
+      {
+        "degree": "M.Tech, Computer Science & Engineering",
+        "school": "UIET, MDU",
+        "year": "Pursuing"
+      },
+      {
+        "degree": "B.Tech, Computer Science & Engineering",
+        "school": "SRM University",
+        "year": "2011 — 2015"
+      }
+    ],
+    "interests": [
+      "Backend & platform engineering",
+      "JavaScript / Node ecosystem",
+      "AI-assisted engineering workflows"
+    ]
+  },
+  "contact": {
+    "title": "Let’s talk",
+    "text": "Hiring for platform, backend, or full-stack—with space to own reliability, cost, and delivery? **Remote, hybrid, and distributed** setups welcome. Send a note with the role, working hours or overlap expectations, and what success looks like in the first 90 days.",
+    "resumeLabel": "Résumé (Google Drive)"
+  }
+}

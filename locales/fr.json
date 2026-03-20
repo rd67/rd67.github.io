@@ -1,0 +1,204 @@
+{
+  "site": {
+    "title": "Rohit Dalal · Ingénieur logiciel senior | Backend, plateformes & fiabilité",
+    "description": "Ingénieur senior (10+ ans) sur des APIs, systèmes distribués et plateformes cloud pour des **équipes globales et distribuées**. Basé en Inde ; **remote-first** avec recouvrement horaire flexible. Go, Kubernetes, Node/TypeScript. Ouvert aux rôles **senior IC** et plateforme.",
+    "keywords": "Rohit Dalal, ingénieur logiciel, backend, plateforme, télétravail, systèmes distribués, SRE, Golang, Kubernetes, DevOps, fiabilité, full-stack",
+    "ogTitle": "Rohit Dalal · Ingénieur logiciel senior",
+    "ogDescription": "Backends, plateformes et systèmes fiables à grande échelle. Go, Kubernetes, APIs. Ouvert aux rôles senior IC.",
+    "ogImageAlt": "Rohit Dalal — ingénieur logiciel, plateformes et fiabilité",
+    "twitterTitle": "Rohit Dalal · Ingénieur logiciel senior",
+    "twitterDescription": "Backends, Kubernetes, APIs et exploitation. Ouvert aux opportunités."
+  },
+  "person": {
+    "photo": {
+      "alt": "Portrait professionnel de Rohit Dalal"
+    },
+    "jsonLd": {
+      "knowsAbout": [
+        "Ingénierie logicielle",
+        "Go",
+        "Kubernetes",
+        "Ingénierie de la fiabilité",
+        "Ingénierie de plateforme",
+        "Développement full-stack",
+        "Infrastructure cloud"
+      ]
+    }
+  },
+  "ui": {
+    "skipToContent": "Aller au contenu",
+    "langSelectAria": "Langue",
+    "resume": "CV",
+    "themeToggleDark": "Passer en mode sombre",
+    "themeToggleLight": "Passer en mode clair",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "scrollTop": "Retour en haut",
+    "scrollTopTitle": "Retour en haut",
+    "navAria": "Navigation principale",
+    "nav": {
+      "about": "À propos",
+      "experience": "Expérience",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "education": "Formation",
+      "contact": "Contact"
+    },
+    "sections": {
+      "about": "À propos",
+      "experience": "Expérience",
+      "skills": "Compétences",
+      "education": "Formation",
+      "interests": "Centres d’intérêt"
+    },
+    "hero": {
+      "emailMe": "M’écrire",
+      "viewResume": "Voir le CV",
+      "socialAria": "Profils sociaux",
+      "summaryAria": "Synthèse"
+    },
+    "jobCurrent": "Actuel",
+    "tagsAria": "Technologies",
+    "rightsReserved": "Tous droits réservés",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "configError": "Impossible de charger <strong>config.json</strong>. Servez le site en HTTP (ex. <code>python3 -m http.server</code> dans le dossier du portfolio)—les navigateurs bloquent les requêtes <code>file://</code>."
+  },
+  "hero": {
+    "eyebrow": "10+ ans · Plateformes, backends & systèmes fiables",
+    "title": "Je conçois et livre des logiciels qui restent stables sous charge.",
+    "lead": [
+      "Je suis le plus à l’aise là où la **livraison produit** rencontre la **réalité plateforme**—APIs et services, **Kubernetes** et CI/CD, observabilité et compromis pragmatiques sous charge. À l’aise avec la **collaboration asynchrone** et les **équipes distribuées** sur plusieurs fuseaux.",
+      "Je encadre, revue le code et assume les incidents quand c’est critique. Si vous cherchez un **senior IC** qui relie produit et infra—**siège, hybride ou entièrement distribué**—discutons."
+    ],
+    "emailSubject": "Bonjour Rohit",
+    "meta": [
+      { "term": "Localisation", "value": "Inde (remote)" },
+      { "term": "Mode de travail", "value": "Remote-first · fuseaux flexibles" },
+      { "term": "Ouvert à", "value": "Senior IC & plateforme" }
+    ]
+  },
+  "about": {
+    "paragraphs": [
+      "Je me soucie des systèmes prévisibles en production : contextes bornés, déploiements observables, décisions explicables pour la finance et l’ingénierie. Récemment **SSR/ISR** pour surfaces à fort trafic, **SEO** et pipelines de release, outils internes utiles pour l’exploitation. Habitué à la **collaboration asynchrone** avec des parties prenantes **multi-régions**.",
+      "Je suis direct en revue de code, patient en mentorat, et volontaire sur les **flux assistés par IA** quand ils augmentent le débit—pas quand ils remplacent la responsabilité. Si votre feuille de route a besoin de quelqu’un pour **fiabilité, coût et delivery** à grande échelle, on s’entendra."
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "role": "Senior Software Engineer I",
+        "org": "DigitalOcean",
+        "dates": "avr. 2024 — présent",
+        "current": true,
+        "bullets": [
+          "Migration de surfaces clés vers **SSR/ISR**—déploiements environ **30 % plus rapides** et meilleures perfs à très fort trafic avec **SLO 99,99 %**.",
+          "Outils admin et parties prenantes **Hacktoberfest**—visibilité opérationnelle à **l’échelle du programme**.",
+          "**SEO** et couverture sitemap ; crawlabilité et visibilité pour le marketing.",
+          "Développement **assisté par IA** responsable (Copilot, Cursor) pour gagner en vitesse sans perdre la discipline de revue."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer (Golang)",
+        "org": "W.IT Global India",
+        "dates": "sept. 2022 — avr. 2024",
+        "bullets": [
+          "**Automatisation sauvegarde/restauration** sur **Azure** et **Kubernetes**—environ **80 %** de coût disque mensuel en moins avec une meilleure reprise.",
+          "Microservices **gRPC** et **REST** en **Go** et Node ; organisation K8s et releases affinées."
+        ]
+      },
+      {
+        "role": "Full-Stack Developer",
+        "org": "Dev Story",
+        "dates": "mars 2021 — juil. 2022",
+        "bullets": [
+          "Mentorat, revues et ownership des **incidents de production**.",
+          "**AWS** et CI/CD avec cible **~99,7 %** de disponibilité ; intégrations quasi temps réel."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "EdKent Media",
+        "dates": "mars 2020 — mars 2021",
+        "bullets": [
+          "Produit greenfield type **PostGrid** : backend, frontend et DevOps jusqu’en prod.",
+          "**Unit economics** pour cartes postales et courriers à volume ; **AWS Lambda** et APIs serverless."
+        ]
+      },
+      {
+        "role": "MERN Stack Developer",
+        "org": "Worklabs",
+        "dates": "juin 2019 — févr. 2020",
+        "bullets": [
+          "Tableaux de bord admin et APIs sur stack **MERN**.",
+          "Exploitation **AWS** orientée sécurité et montée en charge."
+        ]
+      },
+      {
+        "role": "Web Developer",
+        "org": "Code Brew Labs",
+        "dates": "sept. 2015 — févr. 2019",
+        "bullets": [
+          "Remplacement du polling chat par **WebSockets** ; ORM sur codebases **Node**.",
+          "APIs **REST** Node, Laravel, MySQL, MongoDB pour plusieurs clients ; **déploiements**, admin BDD et durcissement."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Travaux sélectionnés",
+    "lede": "Aperçus orientés résultats—échangeons volontiers architecture et compromis.",
+    "items": [
+      {
+        "name": "Site marketing DigitalOcean",
+        "desc": "Migration **SSR/ISR**, CI/CD et durcissement infra pour **trafic très élevé**—temps de déploiement ~**30 %** plus bas, **SLO 99,98 %**.",
+        "tags": ["Next.js", "Performance", "CI/CD"]
+      },
+      {
+        "name": "Hacktoberfest — opérations",
+        "desc": "Produit interne et UX admin pour un programme global—reporting, volume de PRs, opérations participants.",
+        "tags": ["Product", "Admin UX", "Scale"]
+      },
+      {
+        "name": "PostGrid (EdKent)",
+        "desc": "Des millions de cartes et lettres avec **coûts unitaires** serrés—MERN, GitHub Actions, **AWS**, serverless.",
+        "tags": ["MERN", "Serverless", "Cost"]
+      },
+      {
+        "name": "Safecity",
+        "desc": "Fondation Red Dot—signalements citoyens avec police et administrations ; débit incidents et événements.",
+        "tags": ["Laravel", "MySQL", "Redis", "AWS"]
+      },
+      {
+        "name": "Datalab (Unilever)",
+        "desc": "Réduction ~**80 %** des coûts disque via sauvegarde et reprise—React, Node, TypeScript, **Kubernetes**, **Azure**.",
+        "tags": ["Azure", "K8s", "FinOps"]
+      }
+    ]
+  },
+  "skills": {
+    "groups": [
+      { "label": "Langages & runtimes", "tags": ["Go", "Node.js", "TypeScript", "JavaScript", "Python", "PHP", "Shell"] },
+      { "label": "Frontend", "tags": ["React", "Next.js", "HTML", "CSS"] },
+      { "label": "Cloud & ops", "tags": ["Docker", "Kubernetes", "Terraform", "CI/CD", "Observability", "AWS", "DigitalOcean", "Azure", "Serverless"] },
+      { "label": "Données & APIs", "tags": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Cosmos DB", "Elasticsearch", "REST", "gRPC", "WebSockets"] },
+      { "label": "Frameworks & qualité", "tags": ["Express", "Fastify", "Restify", "NestJS", "Gin", "Laravel", "Jest", "A/B testing", "Integration tests"] }
+    ]
+  },
+  "education": {
+    "items": [
+      { "degree": "M.Tech, Computer Science & Engineering", "school": "UIET, MDU", "year": "En cours" },
+      { "degree": "B.Tech, Computer Science & Engineering", "school": "SRM University", "year": "2011 — 2015" }
+    ],
+    "interests": [
+      "Backend & plateforme",
+      "Écosystème JavaScript / Node",
+      "Flux d’ingénierie assistés par IA"
+    ]
+  },
+  "contact": {
+    "title": "Discutons",
+    "text": "Vous recrutez sur la plateforme, le backend ou le full-stack—avec de la marge sur fiabilité, coût et delivery ? **Télétravail, hybride et équipes distribuées** bienvenus. Écrivez avec le rôle, les attentes sur les horaires ou le recouvrement, et votre vision du succès à 90 jours.",
+    "resumeLabel": "CV (Google Drive)"
+  }
+}
